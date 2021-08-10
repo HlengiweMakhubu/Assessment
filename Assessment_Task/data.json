@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "model": "1 Series",
+        "colour": "white",
+        "manufacturer": "BMW",
+        "salesHistory": [
+            {
+                "year": 2011,
+                "vehiclesSold": 2991
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "model": "911 S",
+        "colour": "red",
+        "manufacturer": "Porsche",
+        "salesHistory": [
+            {
+                "year": 2013,
+                "vehiclesSold": 29310
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "model": "C class",
+        "colour": "white",
+        "manufacturer": "Mercedes",
+        "salesHistory": [
+            {
+                "year": 2018,
+                "vehiclesSold": 50000
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "model": "Egios",
+        "colour": "silver",
+        "manufacturer": "Nissan",
+        "salesHistory": [
+            {
+                "year": 2012,
+                "vehiclesSold": 25000
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "model": "Egios",
+        "colour": "silver",
+        "manufacturer": "Nissan",
+        "salesHistory": [
+            {
+                "year": 2012,
+                "vehiclesSold": 25000
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "model": "Egios",
+        "colour": "silver",
+        "manufacturer": "Nissan",
+        "salesHistory": [
+            {
+                "year": 2012,
+                "vehiclesSold": 25000
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "model": "Corvette",
+        "colour": "yellow",
+        "manufacturer": "Chevrolet",
+        "salesHistory": [
+            {
+                "year": 2014,
+                "vehiclesSold": 25000
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "model": "Camero",
+        "colour": "blue",
+        "manufacturer": "Chevrolet",
+        "salesHistory": [
+            {
+                "year": 2013,
+                "vehiclesSold": 25000
+            }
+        ]
+    }
+]
